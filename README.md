@@ -1,1 +1,2 @@
-# Mobile2D_ActionGame_01
+# Mobile2D_ActionGame_01  
+Android向けにスマホで操作可能な2DActionGameを作ってみようと思います。
